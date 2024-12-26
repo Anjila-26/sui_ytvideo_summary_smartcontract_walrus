@@ -1,0 +1,43 @@
+# Build artifacts
+*.bcs
+*.mv
+*.log
+
+# Move bytecode cache
+build/
+target/
+
+# Compiled output from Move Prover
+*.proof
+*.bc
+
+# Dependencies and external libraries
+**/Move.lock
+**/node_modules/
+**/package-lock.json
+
+# IDE-specific files
+.idea/
+.vscode/
+*.iml
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Temporary or system files
+*.tmp
+*.swp
+*.bak
+*.swo
+*.orig
+*.rej
+
+# Logs and debug information
+*.log
+*.out
+*.err
+
+# Secrets and credentials (if any)
+.env
+*.key
