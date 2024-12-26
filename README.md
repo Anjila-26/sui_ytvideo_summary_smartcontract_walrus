@@ -1,6 +1,6 @@
 # Walrus Module
 
-This Move module demonstrates a **practice implementation** for managing file summaries on the blockchain. It utilizes the **Walrus decentralization platform** for seamless object handling.
+This Move module demonstrates a **practice implementation** for managing file summaries on the blockchain.
 
 ## Overview
 
